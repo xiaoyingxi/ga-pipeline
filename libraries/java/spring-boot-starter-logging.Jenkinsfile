@@ -14,7 +14,7 @@ javaLibraryPipeline(
     newVersion: "${params.newVersion}",
     targetRepo: "${params.targetRepo}",
     branch: "${params.branch.trim()}",
-    credentialsId: "9daced0c-e897-4c39-86d7-c6834e490ab4",
+    credentialsId: "b4eb337d-e113-45d0-800e-67c072a4926b",
     repoUrl: 'git@github.com:xiaoyingxi/spring-boot-starter-logging.git',
     description: "spring-boot-starter-logging:${params.version}" 
 )
